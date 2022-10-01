@@ -1,0 +1,15 @@
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\bin\Debug\net6.0\Zadacha-2.exe
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\bin\Debug\net6.0\Zadacha-2.deps.json
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\bin\Debug\net6.0\Zadacha-2.runtimeconfig.json
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\bin\Debug\net6.0\Zadacha-2.dll
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\bin\Debug\net6.0\Zadacha-2.pdb
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\obj\Debug\net6.0\Zadacha-2.csproj.AssemblyReference.cache
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\obj\Debug\net6.0\Zadacha-2.GeneratedMSBuildEditorConfig.editorconfig
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\obj\Debug\net6.0\Zadacha-2.AssemblyInfoInputs.cache
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\obj\Debug\net6.0\Zadacha-2.AssemblyInfo.cs
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\obj\Debug\net6.0\Zadacha-2.csproj.CoreCompileInputs.cache
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\obj\Debug\net6.0\Zadacha-2.dll
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\obj\Debug\net6.0\refint\Zadacha-2.dll
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\obj\Debug\net6.0\Zadacha-2.pdb
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\obj\Debug\net6.0\Zadacha-2.genruntimeconfig.cache
+B:\Courses\SimpleCode\C#\Lesson-1\Zadacha-2\obj\Debug\net6.0\ref\Zadacha-2.dll
